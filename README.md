@@ -11,7 +11,8 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [Kavarii](https://kavarii.com/)  
 * [Lenstube](https://lenstube.xyz/)  
 * [Livespace](https://about.live.space/)  
-* [LongTake NFT Publisher](https://video-nft-sdk.vercel.app/)  
+* [LongTake NFT Publisher](https://video-nft-sdk.vercel.app/)
+* [Mintflick](https://mintflick.app)
 * [Orb](https://orb.ac/)  
 * [StreamETH](https://streameth.tv/)  
 * [SubbSpace](https://www.subb.space/)  
@@ -68,7 +69,15 @@ Staking statistics on Livepeer.
 
 ### Node Operator Tools
 * [Telegram Watcher Bot](https://forum.livepeer.org/t/telegram-bot-orchestrator-watcher/1077):
-Telegram bot. Allows users to receive notifications about their chosen orchestrators.
+Telegram bot. Allows users to receive notifications about their chosen
+orchestrators.
+* [Docker Portainer](https://github.com/AuthorityNull/Livepeer-Docker-Portainer):
+Guide for node operator efficiency.
+* [NFrame](https://nframe.nl/livepeer) - Orchestrator explorer and data tools.
+* [Production Log Monitoring and Alerting](https://forum.livepeer.org/t/guide-production-log-monitoring-and-alerting/2004):
+  Forum guide that's very useful for node operator monitoring.
+* [Running an orchestrator on Linux](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view):
+Detailed step by step technical guide
 
 ### Analytics / Stats / Monitoring
 
@@ -78,7 +87,7 @@ Dune dashboard from Messari.
 * [Web3 Index](http://web3index.org): Usage based fee metrics on web3.
 infrastructure protocols including Livepeer.
 
-## Education
+## General Livepeer Education
 * [Livepeer Academy](https://livepeer.academy/): Video tutorials and
 quests to learn about Livepeer.
 * [Livepeer Docs](https://docs.livepeer.org): Official documentation
@@ -86,6 +95,7 @@ quests to learn about Livepeer.
 Livepeer protocol.  
 * [Livepeer Staking in 10 Minutes](https://www.youtube.com/watch?v=6nZrZHz12-g):
 Youtube video on staking from Titan Node.  
-* [Orchestrator node setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U):
+* [Orchestrator node video setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U):
 Youtube video on node setup from Titan Node.
+
 
