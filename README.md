@@ -86,7 +86,8 @@ Detailed step by step technical guide
   Dune dashboard on Livepeer protocol state.  
 * [Livepeer Macro Financial Statements](https://dune.com/messari/Messari:-Livepeer-Macro-Financial-Statements):
 Dune dashboard from Messari.   
-* [Messari Livepeer Profile](https://messari.io/asset/livepeer)   
+* [Messari Livepeer Profile](https://messari.io/asset/livepeer)
+* [Orchestrator Payout Report](https://www.livepeer.tools/payout/report): Livepeer.Tools orchestrator payout dashboard.
 * [Web3 Index](http://web3index.org): Usage based fee metrics on web3.
 infrastructure protocols including Livepeer.
 
