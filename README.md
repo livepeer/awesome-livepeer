@@ -82,6 +82,8 @@ Detailed step by step technical guide
 
 ### Analytics / Stats / Monitoring
 
+* [Livepeer Arbitrum Dune Dashboard](https://dune.com/stronk/livepeer-arbitrum):
+  Dune dashboard on Livepeer protocol state.  
 * [Livepeer Macro Financial Statements](https://dune.com/messari/Messari:-Livepeer-Macro-Financial-Statements):
 Dune dashboard from Messari.   
 * [Messari Livepeer Profile](https://messari.io/asset/livepeer)   
