@@ -23,6 +23,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ## Developer Tools
 
+* [`go-livepeer`](https://github.com/livepeer/go-livepeer): client software running Livepeer Public Transcoding Network.
 * [Livepeer Studio](https://livepeer.studio): All the tools needed to
 build apps with decentralized video streaming, including
 livestreaming, video on demand, and video NFT minting.
@@ -36,7 +37,6 @@ onto the Livepeer network.
 enables developers to quickly add video to their applications.  
 * [MistServer](https://mistserver.org/): Full-featured, next-generation streaming media toolkit designed for system integrators.
 
-
 ### Tutorials
 * [Building a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://blog.suhailkakar.com/building-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol)  
 * [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)  
@@ -44,6 +44,7 @@ enables developers to quickly add video to their applications.
 * [Upload, Transcode, and Stream videos off of IPFS with Livepeer](https://docs.livepeer.org/tutorials/developing/upload-playback-videos-on-ipfs)  
 * [Playback videos off of 4everland using Livepeer](https://docs.livepeer.org/tutorials/developing/upload-playback-videos-on-ipfs-4everland)  
 * [10x Cost Reduction on global video storage + delivery with Storj and Livepeer](https://www.youtube.com/watch?v=pFKJG64yhIk)
+* [Using `go-livepeer` to create your own platform for livestreaming](https://github.com/videodac/livepeer-broadcaster)
 
 ### Demo Apps
 * [Demo TikTok clone built on Livepeer + Lens Protocol](https://github.com/livepeer/livepeer-lens-shortvideos)
@@ -66,7 +67,6 @@ enables developers to quickly add video to their applications.
 * [StakingRewards](https://www.stakingrewards.com/earn/livepeer/):
 Staking statistics on Livepeer.   
 * [Tenderize](https://www.tenderize.me/): Liquid staking protocol for LPT.
-
 
 ### Node Operator Tools
 * [Telegram Watcher Bot](https://forum.livepeer.org/t/telegram-bot-orchestrator-watcher/1077):
