@@ -46,6 +46,7 @@ enables developers to quickly add video to their applications.
 * [10x Cost Reduction on global video storage + delivery with Storj and Livepeer](https://www.youtube.com/watch?v=pFKJG64yhIk)
 * [Using `go-livepeer` to create your own platform for livestreaming](https://github.com/videodac/livepeer-broadcaster)
 * [Cybertube - Decentralized Youtube built on Livepeer + Cyberconnect (with demo app)](https://cyberconnect.hashnode.dev/cybertube-a-decentralized-video-sharing-platform-built-on-cyberconnect-using-livepeer)
+* [How to token gate videos using Livepeer + LIT](https://docs.livepeer.org/tutorials/developing/token-gate-videos-using-lit)
 
 ### Demo Apps
 * [Demo TikTok clone built on Livepeer + Lens Protocol](https://github.com/livepeer/livepeer-lens-shortvideos)
