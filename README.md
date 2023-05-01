@@ -10,6 +10,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [Glass](https://glass.xyz)  
 * [Huddle01](https://huddle01.com)  
 * [Kavarii](https://kavarii.com/)  
+* [Lenster](https://lenster.xyz/)
 * [Lenstube](https://lenstube.xyz/)  
 * [Livespace](https://about.live.space/)  
 * [LongTake NFT Publisher](https://video-nft-sdk.vercel.app/)
