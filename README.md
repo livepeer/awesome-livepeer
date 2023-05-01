@@ -6,6 +6,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [Beem](https://www.beem.xyz/)  
 * [Bonfire](https://www.trybonfire.xyz/)  
 * [Broadcastr](https://broadcastr.xyz/)  
+* [DiverseHQ](https://diversehq.xyz/)
 * [Glass](https://glass.xyz)  
 * [Huddle01](https://huddle01.com)  
 * [Kavarii](https://kavarii.com/)  
