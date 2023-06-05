@@ -4,23 +4,31 @@ A community curated list of projects, tutorials, demos, and resources within the
 ## Apps Built With Livepeer
 
 * [Beem](https://www.beem.xyz/)  
+* [BeyondClub](https://www.beyondclub.xyz/)
 * [Bonfire](https://www.trybonfire.xyz/)  
 * [Broadcastr](https://broadcastr.xyz/)  
 * [DiverseHQ](https://diversehq.xyz/)
 * [Glass](https://glass.xyz)  
+* [Gummys](https://www.gummys.io/)
 * [Huddle01](https://huddle01.com)  
 * [Hypeshot](https://www.hypeshot.io/)  
 * [Kavarii](https://kavarii.com/)  
+* [Lens Media Snapshots](https://docs.lens.xyz/docs/media-snapshots)
+* [LensPlay](https://www.lensplay.xyz/)
 * [Lenster](https://lenster.xyz/)
 * [Lenstube](https://lenstube.xyz/)  
 * [Livespace](https://about.live.space/)  
 * [LongTake NFT Publisher](https://video-nft-sdk.vercel.app/)
 * [Mintflick](https://mintflick.app)
-* [Orb](https://orb.ac/)  
+* [Monaverse](https://monaverse.com/)
+* [Orb](https://orb.ac/) 
+* [Pinsta](https://pinsta.xyz/) 
 * [StreamETH](https://streameth.tv/)  
 * [SubbSpace](https://www.subb.space/)   
+* [Switchboard](https://switchboard.live)
 * [The Lot Radio](https://www.thelotradio.com/)  
 * [Tribe Social](https://tribesocial.io/)  
+* [Waves](https://wav3s.app/)
 * [Xeenon](https://xeenon.xyz/)
 
 ## Developer Tools
@@ -49,6 +57,7 @@ enables developers to quickly add video to their applications.
 * [Using `go-livepeer` to create your own platform for livestreaming](https://github.com/videodac/livepeer-broadcaster)
 * [Cybertube - Decentralized Youtube built on Livepeer + Cyberconnect (with demo app)](https://cyberconnect.hashnode.dev/cybertube-a-decentralized-video-sharing-platform-built-on-cyberconnect-using-livepeer)
 * [How to token gate videos using Livepeer + LIT](https://docs.livepeer.org/tutorials/developing/token-gate-videos-using-lit)
+* [Streaming into Decentraland with Livepeer Studio](https://github.com/decentraland-scenes/video-streaming/blob/main/README.md)
 
 ### Demo Apps
 * [Demo TikTok clone built on Livepeer + Lens Protocol](https://github.com/livepeer/livepeer-lens-shortvideos)
