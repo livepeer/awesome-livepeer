@@ -101,6 +101,7 @@ infrastructure protocols including Livepeer.
 * [Livepeer Academy](https://livepeer.academy/): Video tutorials and
 quests to learn about Livepeer.
 * [Livepeer Docs](https://docs.livepeer.org): Official documentation
+* [API Reference](https://docs.livepeer.org/reference/api): Reference section of the docs for the Livepeer API   
 * [Livepeer Primer](https://livepeer.org/primer): Visual overview of the
 Livepeer protocol.  
 * [Livepeer Staking in 10 Minutes](https://www.youtube.com/watch?v=6nZrZHz12-g):
