@@ -5,7 +5,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 * [Beem](https://www.beem.xyz/)  
 * [BeyondClub](https://www.beyondclub.xyz/)
-* [Bonfire](https://www.trybonfire.xyz/)  
+* [Bonfire](https://www.bonfire.xyz/)  
 * [Broadcastr](https://broadcastr.xyz/)  
 * [DiverseHQ](https://diversehq.xyz/)
 * [Glass](https://glass.xyz)  
