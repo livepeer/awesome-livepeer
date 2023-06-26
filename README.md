@@ -116,7 +116,9 @@ quests to learn about Livepeer.
 Livepeer protocol.  
 * [Livepeer Staking in 10 Minutes](https://www.youtube.com/watch?v=6nZrZHz12-g):
 Youtube video on staking from Titan Node.  
-* [Orchestrator node video setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U):
+* Livepeer Orchestrator Node Setup Guides
+    * [Video setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U):
 Youtube video on node setup from Titan Node.
+    * [Linux setup manual](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view): Comprehensive setup instructions from Captain Stronk.
 
 
