@@ -26,6 +26,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [Orb](https://orb.ac/) 
 * [Pinsta](https://pinsta.xyz/)
 * [Serraform](https://stream.serraform.com/) (Decentraland)
+* [Soclly](https://www.soclly.com/)
 * [StreamETH](https://streameth.tv/)  
 * [SubbSpace](https://www.subb.space/)   
 * [Switchboard](https://switchboard.live)
