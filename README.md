@@ -15,6 +15,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [Hypeshot](https://www.hypeshot.io/)  
 * [Kavarii](https://kavarii.com/)  
 * [Lens Media Snapshots](https://docs.lens.xyz/docs/media-snapshots)
+* [Lenspeer](https://lenspeer.com/)
 * [LensPlay](https://www.lensplay.xyz/)
 * [LensPort](https://lensport.io/)
 * [Lenster](https://lenster.xyz/)
