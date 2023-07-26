@@ -30,7 +30,6 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [Serraform](https://stream.serraform.com/) (Decentraland)
 * [Soclly](https://www.soclly.com/)
 * [StreamETH](https://streameth.tv/)  
-* [SubbSpace](https://www.subb.space/)   
 * [Switchboard](https://switchboard.live)
 * [The Lot Radio](https://www.thelotradio.com/)  
 * [Tribe Social](https://tribesocial.io/)  
@@ -63,6 +62,7 @@ enables developers to quickly add video to their applications.
 * [Using `go-livepeer` to create your own platform for livestreaming](https://github.com/videodac/livepeer-broadcaster)
 * [Cybertube - Decentralized Youtube built on Livepeer + Cyberconnect (with demo app)](https://cyberconnect.hashnode.dev/cybertube-a-decentralized-video-sharing-platform-built-on-cyberconnect-using-livepeer)
 * [How to token gate videos using Livepeer + LIT](https://docs.livepeer.org/tutorials/developing/token-gate-videos-using-lit)
+* [How to token gate videos using Livepeer + Guild.xyz](https://docs.livepeer.org/tutorials/developing/token-gate-videos-using-guildxyz)
 * [Streaming into Decentraland with Livepeer Studio](https://github.com/decentraland-scenes/video-streaming/blob/main/README.md)
 
 ### Demo Apps
@@ -70,8 +70,10 @@ enables developers to quickly add video to their applications.
 * [Justcast.it: 1 click "start livestream" from the browser](https://github.com/victorges/justcast.it)  
 * [OurTube - decentralized Youtube sample app](https://github.com/suhailkakar/Decentralized-YouTube)  
 * [Sample app for video playback off of dStorage like IPFS and Arweave](https://github.com/suhailkakar/livepeer-dStorage-playback)  
-* [Sample app combining Filecoin's FVM and Livepeer](https://github.com/suhailkakar/FVM-x-Livepeer-Example-App)  
+* [Sample app combining Filecoin's FVM and Livepeer](https://github.com/suhailkakar/FVM-x-Livepeer-Example-App)
+* [Mint Video NFTs on Solana](https://github.com/suhailkakar/livepeer-solana-nft) 
 * [Token gating a video on an EVM chain](https://github.com/suhailkakar/Livepeer-EVM-Tokengating)
+* [Token gating a video on Aptos](https://github.com/suhailkakar/Livepeer-Aptos)
 * [Unity Livepeer Client](https://github.com/alextitonis/Unity-Livepeer-Client)
 * [Use Guild.xyz to token gate video content](https://github.com/suhailkakar/livepeer-guild-token-gated-vod)
 * [WebRTMP sample app](https://github.com/livepeer/webrtmp-sdk)
