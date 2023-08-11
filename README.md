@@ -23,6 +23,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [LensShare](https://lenshareapp.xyz/)
 * [Livespace](https://about.live.space/)  
 * [LongTake NFT Publisher](https://video-nft-sdk.vercel.app/)
+* [Minds](https://minds.com/)
 * [Mintflick](https://mintflick.app)
 * [Monaverse](https://monaverse.com/)
 * [Orb](https://orb.ac/) 
