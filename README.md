@@ -76,6 +76,7 @@ enables developers to quickly add video to their applications.
 * [Mint Video NFTs on Solana](https://github.com/suhailkakar/livepeer-solana-nft) 
 * [Token gating a video on an EVM chain](https://github.com/suhailkakar/Livepeer-EVM-Tokengating)
 * [Token gating a video on Aptos](https://github.com/suhailkakar/Livepeer-Aptos)
+* [TurboETH Livepeer App Template](https://www.turboeth.xyz/integration/livepeer/livestream/new/browser)
 * [Unity Livepeer Client](https://github.com/alextitonis/Unity-Livepeer-Client)
 * [Use Guild.xyz to token gate video content](https://github.com/suhailkakar/livepeer-guild-token-gated-vod)
 * [WebRTMP sample app](https://github.com/livepeer/webrtmp-sdk)
