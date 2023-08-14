@@ -52,6 +52,7 @@ onto the Livepeer network.
 * [livepeer.js](http://livepeerjs.org): Livepeer JavaScript library that
 enables developers to quickly add video to their applications.  
 * [MistServer](https://mistserver.org/): Full-featured, next-generation streaming media toolkit designed for system integrators.
+* [Bubble Plugin](https://bubble.io/plugin/livepeer-1677840415216x421611770103726100): Community supported no-code tool for adding video to your app or prototype via Livepeer, without writing any code.
 
 ### Tutorials
 * [Building a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://blog.suhailkakar.com/building-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol)  
