@@ -9,6 +9,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 * [Broadcastr](https://broadcastr.xyz/)
 * [Buttrfly](https://buttrfly.app/)
 * [DiverseHQ](https://diversehq.xyz/)
+* [EthGlobal.tv](https://ethglobal.tv/)
 * [Glass](https://glass.xyz)  
 * [Gummys](https://www.gummys.io/)
 * [Huddle01](https://huddle01.com)  
