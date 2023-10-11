@@ -107,6 +107,7 @@ Guide for node operator efficiency.
   Forum guide that's very useful for node operator monitoring.
 * [Running an orchestrator on Linux](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view):
 Detailed step by step technical guide
+* [Orchestrator Pricing Visibility](https://grafana.stronk.tech/d/g423g24y/orchestrator-ppp?orgId=1&refresh=5s&var-regions=Leiden) - Price per pixel changes over time on a per orchestrator basis.
 
 ### Analytics / Stats / Monitoring
 
