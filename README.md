@@ -103,6 +103,7 @@ Telegram bot. Allows users to receive notifications about their chosen
 orchestrators.
 * [Docker Portainer](https://github.com/AuthorityNull/Livepeer-Docker-Portainer):
 Guide for node operator efficiency.
+* [Livepeer Exporter](https://github.com/rickstaa/livepeer-exporter) - Enhanced monitoring tool for the Livepeer network and Livpeeer orchestrators.
 * [NFrame](https://nframe.nl/livepeer) - Orchestrator explorer and data tools.
 * [Production Log Monitoring and Alerting](https://forum.livepeer.org/t/guide-production-log-monitoring-and-alerting/2004):
   Forum guide that's very useful for node operator monitoring.
