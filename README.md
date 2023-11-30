@@ -103,7 +103,7 @@ Telegram bot. Allows users to receive notifications about their chosen
 orchestrators.
 * [Docker Portainer](https://github.com/AuthorityNull/Livepeer-Docker-Portainer):
 Guide for node operator efficiency.
-* [Livepeer Exporter](https://github.com/rickstaa/livepeer-exporter) - Enhanced monitoring tool for the Livepeer network and Livpeeer orchestrators.
+* [Livepeer Exporter](https://github.com/transcodeninja/livepeer-exporter) - Enhanced monitoring tool for the Livepeer network and Livepeer orchestrators.
 * [NFrame](https://nframe.nl/livepeer) - Orchestrator explorer and data tools.
 * [Production Log Monitoring and Alerting](https://forum.livepeer.org/t/guide-production-log-monitoring-and-alerting/2004):
   Forum guide that's very useful for node operator monitoring.
@@ -135,5 +135,3 @@ Youtube video on staking from Titan Node.
     * [Video setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U):
 Youtube video on node setup from Titan Node.
     * [Linux setup manual](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view): Comprehensive setup instructions from Captain Stronk.
-
-
