@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a style="color: inherit" href="https://github.com/rickstaa/awesome-livepeer"> LivePeer</a> <!-- omit in toc -->
+# <a style="color: inherit" href="https://github.com/rickstaa/awesome-livepeer">Awesome LivePeer</a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > **Note**
 > Just type `livepeer.cool` to go here.
