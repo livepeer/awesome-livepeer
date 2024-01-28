@@ -1,9 +1,18 @@
+
+<div align="center">
+
 # [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a style="color: inherit" href="https://github.com/rickstaa/awesome-livepeer"> LivePeer</a> <!-- omit in toc -->
 
 > **Note**
 > Just type `livepeer.cool` to go here.
 
-A community curated list of projects, tutorials, demos, and resources within the Livepeer ecosystem.
+A community curated list of projects, tutorials, demos, and resources within the [Livepeer](https://livepeer.org) ecosystem.
+
+<a href="https://livepeer.org" target="_blank" rel="noopener noreferrer">
+  <img width="600" src="https://github.com/livepeer/awesome-livepeer/assets/17570430/ccc1cbd6-1271-485a-a779-218922a74fb8" />
+</a>
+
+</div>
 
 <!-- TOC -->
 
