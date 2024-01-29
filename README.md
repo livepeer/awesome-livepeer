@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # <a style="color: inherit" href="https://github.com/rickstaa/awesome-livepeer">Awesome LivePeer</a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
@@ -129,8 +128,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Docker Portainer](https://github.com/AuthorityNull/Livepeer-Docker-Portainer) - Guide for node operator efficiency.
 - [Livepeer Exporter](https://github.com/transcodeninja/livepeer-exporter) - Enhanced monitoring tool for the Livepeer network and Livepeer orchestrators.
 - [Livepeer Orchestrator Explorer](https://stronk.rocks/livepeer) - Orchestrator explorer and data tools.
-- [Production Log Monitoring and Alerting](https://forum.livepeer.org/t/guide-production-log-monitoring-and-alerting/2004) - Forum guide that's very useful for node operator monitoring.
-<!--lint ignore double-link-->
+- [Production Log Monitoring and Alerting](https://forum.livepeer.org/t/guide-production-log-monitoring-and-alerting/2004) - Forum guide that's very useful for node operator monitoring. <!--lint ignore double-link-->
 - [Running an orchestrator on Linux](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view) - Detailed step by step technical guide.
 - [Orchestrator Pricing Visibility](https://grafana.stronk.tech/d/g423g24y/orchestrator-ppp?orgId=1&refresh=5s&var-regions=Leiden) - Price per pixel changes over time on a per orchestrator basis.
 
@@ -150,6 +148,5 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Livepeer Primer](https://livepeer.org/primer) - Visual overview of the Livepeer protocol.
 - [Livepeer Staking in 10 Minutes](https://www.youtube.com/watch?v=6nZrZHz12-g) - YouTube video on staking from Titan Node.
 - Livepeer Orchestrator Node Setup Guides:
-  - [Video setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U) - YouTube video on node setup from Titan Node.
-  <!--lint ignore double-link-->
+  - [Video setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U) - YouTube video on node setup from Titan Node. <!--lint ignore double-link-->
   - [Linux setup manual](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view) - Comprehensive setup instructions from Captain Stronk.
