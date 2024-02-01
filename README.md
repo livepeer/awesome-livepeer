@@ -150,3 +150,5 @@ A community curated list of projects, tutorials, demos, and resources within the
 - Livepeer Orchestrator Node Setup Guides:
   - [Video setup guide](https://www.youtube.com/watch?v=-gfSkX5xL-U) - YouTube video on node setup from Titan Node. <!--lint ignore double-link-->
   - [Linux setup manual](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view) - Comprehensive setup instructions from Captain Stronk.
+
+Simple change.
