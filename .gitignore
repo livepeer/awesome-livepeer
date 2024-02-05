@@ -1,5 +1,6 @@
 # Build
 .node_modules
+_site
 
 # IDE
 .vscode
