@@ -29,7 +29,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+        # uses: actions/jekyll-build-pages@v1
+        # NOTE: Remove items below when https://github.com/pages-themes/primer/pull/85 is merged.
+        uses: rickstaa/jekyll-build-pages@remote_theme
         with:
           source: ./
           destination: ./_site
