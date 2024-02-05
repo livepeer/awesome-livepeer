@@ -274,6 +274,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-remote-theme
   nokogiri (~> 1.12.5)
 
 BUNDLED WITH
