@@ -1,0 +1,10 @@
+# Build
+.node_modules
+_site
+
+# IDE
+.vscode
+*.code-workspace
+
+# Awesome CI
+ab-results-*.json
