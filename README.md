@@ -8,7 +8,7 @@
 A community curated list of projects, tutorials, demos, and resources within the [Livepeer](https://livepeer.org) ecosystem.
 
 <a href="https://livepeer.org" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/livepeer_banner_green.png" alt="Livepeer Logo"/>
+  <img src="/assets/images/livepeer-banner.png" alt="Livepeer Logo"/>
 </a>
 
 </div>
