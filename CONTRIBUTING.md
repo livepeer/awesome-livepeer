@@ -43,7 +43,7 @@ Follow these steps to build and test the GitHub Pages site locally using Jekyll:
 
 1. Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/) and [Bundler](https://bundler.io/guides/getting_started.html). We recommend using [rbenv](https://github.com/rbenv/rbenv) to manage Ruby versions.
 2. Fork the repository and clone it to your local machine.
-3. Navigate to the repository directory and set the Ruby version to 2.7.2 by running `rbenv local 2.7.2`. This is necessary because the [GitHub Pages gem](https://github.com/github/pages-gem/) currently does not support Ruby 3.0.0 (refer to this [issue comment](https://github.com/github/pages-gem/issues/752#issuecomment-764758292) for more details).
+3. Navigate to the repository directory and set the Ruby version to 3.3.0 by running `rbenv install`.
 4. Install Jekyll and other dependencies by running `bundle install`.
 5. Start the local server by running `bundle exec jekyll serve`.
 6. Access the site by opening `http://localhost:4000` in your web browser.
