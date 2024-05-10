@@ -78,7 +78,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [livepeer.js](http://livepeerjs.org) - Livepeer JavaScript library that enables developers to quickly add video to their applications.
 - [MistServer](https://mistserver.org/) - Full-featured, next-generation streaming media toolkit designed for system integrators.
 - [Bubble Plugin](https://bubble.io/plugin/livepeer-1677840415216x421611770103726100) - Community supported no-code tool for adding video to your app or prototype via Livepeer, without writing any code.
-- [Livepeer Studio CLI](https://docs.livepeer.org/developers/livepeer-studio-cli) - CLI tool to generate a new Livepeer App in seconds. 
+- [Livepeer Studio CLI](https://docs.livepeer.org/developers/livepeer-studio-cli) - CLI tool to generate a new Livepeer App in seconds.
 
 ### Tutorials
 
@@ -117,6 +117,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Video Miner](https://video-miner.com/)
 - [Livepool](http://livepool.io)
 - [Grant Node Pool](https://grant-node.xyz/)
+- [Open-Pool](https://open-pool.com/)
 
 ### Staking Tools
 
