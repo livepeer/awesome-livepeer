@@ -24,6 +24,7 @@ A community curated list of projects, tutorials, demos, and resources within the
   - [Demo Apps](#demo-apps)
 - [Network Tools](#network-tools)
   - [Orchestrator Pools](#orchestrator-pools)
+  - [RPC Providers](#rpc-providers)
   - [Staking Tools](#staking-tools)
   - [Node Operator Tools](#node-operator-tools)
   - [Analytics / Stats / Monitoring](#analytics--stats--monitoring)
@@ -118,6 +119,12 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Livepool](http://livepool.io)
 - [Grant Node Pool](https://grant-node.xyz/)
 - [Open-Pool](https://open-pool.com/)
+
+### RPC Providers
+
+- [Community Arbitrum RPC](https://livepeer.rpcgarage.xyz/) - Community maintained RPC endpoint for the Arbitrum network.
+- [Alchemy](https://www.alchemy.com/) - Blockchain development platform with infrastructure tools like RPC services.
+- [Infura](https://infura.io/) - Developer tools for blockchain with RPC services.
 
 ### Staking Tools
 
