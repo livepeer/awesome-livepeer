@@ -19,7 +19,10 @@ A community curated list of projects, tutorials, demos, and resources within the
 ## Contents
 
 - [Apps Built With Livepeer](#apps-built-with-livepeer)
+  - [Video Streaming and Social Apps](#video-streaming-and-social-apps)
+  - [AI-Powered Apps](#ai-powered-apps)
 - [Developer Tools](#developer-tools)
+  - [Livepeer Tools and Libraries](#livepeer-tools-and-libraries)
   - [Tutorials](#tutorials)
   - [Demo Apps](#demo-apps)
 - [Network Tools](#network-tools)
@@ -28,11 +31,15 @@ A community curated list of projects, tutorials, demos, and resources within the
   - [Staking Tools](#staking-tools)
   - [Node Operator Tools](#node-operator-tools)
   - [Analytics / Stats / Monitoring](#analytics--stats--monitoring)
+  - [General](#general)
+  - [AI specific](#ai-specific)
 - [General Livepeer Education](#general-livepeer-education)
 
 <!-- CONTENT -->
 
 ## Apps Built With Livepeer
+
+### Video Streaming and Social Apps
 
 - [Beem](https://www.beem.xyz/)
 - [BeyondClub](https://www.beyondclub.xyz/)
@@ -70,7 +77,17 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Waves](https://wav3s.app/)
 - [Xeenon](https://xeenon.xyz/)
 
+### AI-Powered Apps
+
+- [Tsunameme](https://www.tsunameme.ai/)
+- [Dream](https://dream.livepeer.cloud/generate)
+- [Cloud AI generator](https://ai-generator.livepeer.cloud/)
+- [Let's Generate](https://letsgenerate.ai/)
+- [Inference By Stronk](https://inference.stronk.rocks/)
+
 ## Developer Tools
+
+### Livepeer Tools and Libraries
 
 - [`go-livepeer`](https://github.com/livepeer/go-livepeer) - Client software running Livepeer Public Transcoding Network.
 - [Livepeer Studio](https://livepeer.studio) - All the tools needed to build apps with decentralized video streaming, including livestreaming, video on demand, and video NFT minting.
@@ -138,16 +155,23 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Livepeer Exporter](https://github.com/transcodeninja/livepeer-exporter) - Enhanced monitoring tool for the Livepeer network and Livepeer orchestrators.
 - [Livepeer Orchestrator Explorer](https://stronk.rocks/livepeer) - Orchestrator explorer and data tools.
 - [Production Log Monitoring and Alerting](https://forum.livepeer.org/t/guide-production-log-monitoring-and-alerting/2004) - Forum guide that's very useful for node operator monitoring. <!--lint ignore double-link-->
-- [Running an orchestrator on Linux](https://hedgedoc.ddvtech.com/wpwHEXMFTueUM7jqhikTvw?view) - Detailed step by step technical guide.
 - [Orchestrator Pricing Visibility](https://grafana.stronk.tech/d/g423g24y/orchestrator-ppp?orgId=1&refresh=5s&var-regions=Leiden) - Price per pixel changes over time on a per orchestrator basis.
 
 ### Analytics / Stats / Monitoring
+
+### General
 
 - [Livepeer Arbitrum Dune Dashboard](https://dune.com/stronk/livepeer-arbitrum) - Dune dashboard on Livepeer protocol state.
 - [Livepeer Macro Financial Statements](https://dune.com/messari/Messari:-Livepeer-Macro-Financial-Statements) - Dune dashboard from Messari.
 - [Messari Livepeer Profile](https://messari.io/asset/livepeer)
 - [Orchestrator Payout Report](https://www.livepeer.tools/payout/report) - Livepeer.Tools orchestrator payout dashboard.
 - [Web3 Index](http://web3index.org) - Usage based fee metrics on web3. Infrastructure protocols including Livepeer.
+- [Stream Tester](https://livepeer-test-broadcaster.ad-astra.video/) - Assess your Livepeer orchestrator's performance and streaming capabilities.
+
+### AI specific
+
+- [AI Inference Tester](https://livepeer-test-broadcaster.ad-astra.video/inference) - Obtain AI inference statistics for your Livepeer orchestrator.
+- [Livepeer AI Dune Dashboard](https://dune.com/rickstaa/livepeer-ai) - Dune dashboard on Livepeer AI protocol state.
 
 ## General Livepeer Education
 
