@@ -10,9 +10,9 @@ A community curated list of projects, tutorials, demos, and resources within the
 <p align="center">
 	<a href="https://livepeer.org/?utm_source=awesome-livepeer">
 		<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="assets/images/livepeer-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="assets/images/livepeer-light.svg">
-		  <img alt="Livepeer logo" src="assets/images/livepeer-dark.svg" height="50px">
+		  <source media="(prefers-color-scheme: dark)" srcset="assets/images/livepeer_light_bg.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="assets/images/livepeer_dark_bg.svg">
+		  <img alt="Livepeer logo" src="assets/images/livepeer_dark_bg.svg" height="100px">
 		</picture>
 	</a>
 </p>
