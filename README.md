@@ -7,9 +7,15 @@
 
 A community curated list of projects, tutorials, demos, and resources within the [Livepeer](https://livepeer.org) ecosystem.
 
-<a href="https://livepeer.org" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/images/livepeer_banner_green.png" alt="Livepeer Logo"/>
-</a>
+<p align="center">
+	<a href="https://livepeer.org/?utm_source=awesome-livepeer">
+		<picture>
+		  <source media="(prefers-color-scheme: light)" srcset="assets/images/livepeer-light.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="assets/images/livepeer-dark.svg">
+		  <img alt="Livepeer logo" src="assets/images/livepeer-dark.svg" height="50px">
+		</picture>
+	</a>
+</p>
 
 </div>
 
