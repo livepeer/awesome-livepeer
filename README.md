@@ -51,7 +51,6 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [BeyondClub](https://www.beyondclub.xyz/)
 - [Bonfire](https://www.bonfire.xyz/)
 - [Buttrfly](https://buttrfly.app/)
-- [DiverseHQ](https://diversehq.xyz/)
 - [EthGlobal.tv](https://ethglobal.tv/)
 - [Glass](https://glass.xyz)
 - [Gummys](https://www.gummys.io/)
@@ -64,8 +63,6 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [LensPort](https://lensport.io/)
 - [Lenster](https://lenster.xyz/)
 - [Lenstube](https://lenstube.xyz/)
-- [LensShare](https://lenshareapp.xyz/)
-- [Livespace](https://about.live.space/)
 - [LongTake NFT Publisher](https://video-nft-sdk.vercel.app/)
 - [Minds](https://minds.com/)
 - [Mintflick](https://mintflick.app)
@@ -73,15 +70,13 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Orb](https://orb.ac/)
 - [Picarto.tv](https://picarto.tv/)
 - [Pinsta](https://pinsta.xyz/)
-- [Radar](https://radarlaunch.app/)
-- [Serraform](https://stream.serraform.com/) (Decentraland)
 - [Soclly](https://www.soclly.com/)
 - [StreamETH](https://streameth.tv/)
 - [Switchboard](https://switchboard.live)
 - [The Lot Radio](https://www.thelotradio.com/)
 - [Tribe Social](https://tribesocial.io/)
 - [Waves](https://wav3s.app/)
-- [Xeenon](https://xeenon.xyz/)
+- [Xeenon](https://docs.xeenon.xyz/streaming)
 
 ### AI-Powered Apps
 
@@ -141,7 +136,6 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Video Miner](https://video-miner.com/)
 - [Livepool](http://livepool.io)
 - [Grant Node Pool](https://grant-node.xyz/)
-- [Open-Pool](https://open-pool.com/)
 
 ### RPC Providers
 
