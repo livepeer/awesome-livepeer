@@ -49,6 +49,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 - [Beem](https://www.beem.xyz/)
 - [BeyondClub](https://www.beyondclub.xyz/)
+- [Bitfans](https://bitfans.me/)
 - [Bonfire](https://www.bonfire.xyz/)
 - [Buttrfly](https://buttrfly.app/)
 - [DiverseHQ](https://diversehq.xyz/)
