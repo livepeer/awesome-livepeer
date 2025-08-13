@@ -173,6 +173,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Orchestrator Payout Report](https://www.livepeer.tools/payout/report) - Livepeer.Tools orchestrator payout dashboard.
 - [Web3 Index](http://web3index.org) - Usage based fee metrics on web3. Infrastructure protocols including Livepeer.
 - [Stream Tester](https://livepeer-test-broadcaster.ad-astra.video/) - Assess your Livepeer orchestrator's performance and streaming capabilities.
+- [Test Streams Dashboard](https://interptr-latest-test-streams.vercel.app/?address=0x5bdeedca9c6346b0ce6b17ffa8227a4dace37039) - Check your orchestrator's transcoding test stream scores accross regions.
 
 ### AI specific
 
