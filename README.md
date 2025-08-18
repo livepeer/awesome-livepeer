@@ -32,6 +32,7 @@ A community curated list of projects, tutorials, demos, and resources within the
   - [Tutorials](#tutorials)
   - [Demo Apps](#demo-apps)
 - [Network Tools](#network-tools)
+  - [Delegator Tools](#delegator-tools)
   - [Orchestrator Pools](#orchestrator-pools)
   - [RPC Providers](#rpc-providers)
   - [Staking Tools](#staking-tools)
@@ -68,8 +69,8 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Picarto.tv](https://picarto.tv/)
 - [Pinsta](https://pinsta.xyz/)
 - [Soclly](https://www.soclly.com/)
-- [StreamETH](https://streameth.org)
-- [Switchboard](https://switchboard.live)
+- [StreamETH](https://streameth.org/)
+- [Switchboard](https://switchboard.live/)
 - [The Lot Radio](https://www.thelotradio.com/)
 - [Tribe Social](https://tribesocial.io/)
 - [Waves](https://wav3s.app/)
@@ -126,6 +127,10 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [WebRTMP sample app](https://github.com/livepeer/webrtmp-sdk)
 
 ## Network Tools
+
+### Delegator Tools
+
+- [Livepeer Income Reports](https://github.com/rickstaa/livepeer-income-reports) - A collection of Python scripts for Livepeer delegators and orchestrators to calculate earnings and rewards and generate tax reports.
 
 ### Orchestrator Pools
 
