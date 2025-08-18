@@ -75,6 +75,8 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Tribe Social](https://tribesocial.io/)
 - [Waves](https://wav3s.app/)
 - [Xeenon](https://xeenon.xyz/)
+- [retake.tv](https://retake.tv/)
+- [stream.place](https://stream.place/)
 
 ### AI-Powered Apps
 
