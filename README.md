@@ -49,9 +49,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 - [Beem](https://www.beem.xyz/)
 - [BeyondClub](https://www.beyondclub.xyz/)
-- [Bonfire](https://www.bonfire.xyz/)
 - [Buttrfly](https://buttrfly.app/)
-- [DiverseHQ](https://diversehq.xyz/)
 - [EthGlobal.tv](https://ethglobal.tv/)
 - [Glass](https://glass.xyz)
 - [Gummys](https://www.gummys.io/)
@@ -59,24 +57,18 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Hypeshot](https://www.hypeshot.io/)
 - [Kavarii](https://kavarii.com/)
 - [Lens Media Snapshots](https://docs.lens.xyz/docs/media-snapshots)
-- [Lenspeer](https://lenspeer.com/)
 - [LensPlay](https://www.lensplay.xyz/)
 - [LensPort](https://lensport.io/)
 - [Lenster](https://lenster.xyz/)
 - [Lenstube](https://lenstube.xyz/)
-- [LensShare](https://lenshareapp.xyz/)
-- [Livespace](https://about.live.space/)
 - [LongTake NFT Publisher](https://video-nft-sdk.vercel.app/)
 - [Minds](https://minds.com/)
-- [Mintflick](https://mintflick.app)
 - [Monaverse](https://monaverse.com/)
 - [Orb](https://orb.ac/)
 - [Picarto.tv](https://picarto.tv/)
 - [Pinsta](https://pinsta.xyz/)
-- [Radar](https://radarlaunch.app/)
-- [Serraform](https://stream.serraform.com/) (Decentraland)
 - [Soclly](https://www.soclly.com/)
-- [StreamETH](https://streameth.tv/)
+- [StreamETH](https://streameth.org)
 - [Switchboard](https://switchboard.live)
 - [The Lot Radio](https://www.thelotradio.com/)
 - [Tribe Social](https://tribesocial.io/)
@@ -182,7 +174,6 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ## General Livepeer Education
 
-- [Livepeer Academy](https://livepeer.academy/) - Video tutorials and quests to learn about Livepeer.
 - [Livepeer Docs](https://docs.livepeer.org) - Official documentation.
 - [API Reference](https://docs.livepeer.org/reference/api) - Reference section of the docs for the Livepeer API.
 - [Livepeer Primer](https://livepeer.org/primer) - Visual overview of the Livepeer protocol.
