@@ -139,8 +139,8 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Titan Node Pool](https://titan-node.com/)
 - [Video Miner](https://video-miner.com/)
 - [Livepool](http://livepool.io)
-- [Grant Node Pool](https://grant-node.xyz/)
-- [Open-Pool](https://open-pool.com/)
+- [Grant Node Pool](https://app.grant-node.xyz/)
+- [Open-Pool](https://app.open-pool.com/)
 
 ### RPC Providers
 

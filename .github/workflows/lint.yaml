@@ -43,4 +43,4 @@ jobs:
       - name: "install awesome-bot"
         run: gem install awesome_bot
       - name: "linting: ${{ matrix.files }}"
-        run: awesome_bot --allow 403 --allow-redirect --allow-dupe ${{ matrix.files }}
+        run: awesome_bot --allow 403 429 --allow-redirect --allow-dupe ${{ matrix.files }}
