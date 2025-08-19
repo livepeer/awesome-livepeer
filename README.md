@@ -101,8 +101,8 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 ### Tutorials
 
-- [Building a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://blog.suhailkakar.com/building-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol)
-- [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
+- [Building a Full Stack Web3 TikTok Clone with React Native, Livepeer, and Lens Protocol](https://suhailkakar.com/building-a-full-stack-web3-tiktok-clone-with-react-native-livepeer-and-lens-protocol)
+- [Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer](https://suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
 - [Upload and Stream videos off of Arweave with Livepeer](https://docs.livepeer.org/tutorials/developing/upload-playback-videos-on-arweave)
 - [Upload, Transcode, and Stream videos off of IPFS with Livepeer](https://docs.livepeer.org/tutorials/developing/upload-playback-videos-on-ipfs)
 - [Playback videos off of 4everland using Livepeer](https://docs.livepeer.org/tutorials/developing/upload-playback-videos-on-ipfs-4everland)
