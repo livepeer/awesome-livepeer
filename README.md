@@ -156,6 +156,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 ### Node Operator Tools
 
 - [Telegram Watcher Bot](https://forum.livepeer.org/t/telegram-bot-orchestrator-watcher/1077) - Telegram bot. Allows users to receive notifications about their chosen orchestrators.
+- [Livepeer Reward Watcher](https://github.com/rickstaa/livepeer-reward-watcher) - Monitors your Livepeer orchestrator and alerts you when it's at risk of missing a reward call.
 - [Docker Portainer](https://github.com/AuthorityNull/Livepeer-Docker-Portainer) - Guide for node operator efficiency.
 - [Livepeer Exporter](https://github.com/transcodeninja/livepeer-exporter) - Enhanced monitoring tool for the Livepeer network and Livepeer orchestrators.
 - [Livepeer Orchestrator Explorer](https://stronk.rocks/livepeer) - Orchestrator explorer and data tools.
