@@ -146,7 +146,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 - [Community Arbitrum RPC](https://liveinfraspe.com/) - Community maintained RPC endpoint for the Arbitrum network.
 - [Alchemy](https://www.alchemy.com/) - Blockchain development platform with infrastructure tools like RPC services.
-- [Infura](https://infura.io/) - Developer tools for blockchain with RPC services.
+- [Infura](https://infura.io/) - Developer tools for Blockchain with RPC services.
 
 ### Staking Tools
 
