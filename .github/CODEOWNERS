@@ -1,0 +1,6 @@
+# This file defines code ownership for the repository.
+# Each line is a file pattern followed by one or more owners.
+# For more information, see: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repository
+* @rickstaa
