@@ -13,6 +13,9 @@ jobs:
   release:
     if: github.event.action != 'labeled'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # push version tags and create the release
+      pull-requests: read # read bump labels from the merged PR
     steps:
       - uses: actions/checkout@v6
 
@@ -53,6 +56,9 @@ jobs:
   release-check:
     if: github.event.action == 'labeled'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write # post the bumpr status comment
     steps:
       - uses: actions/checkout@v6
       - name: Post bumpr status comment
